@@ -1,4 +1,4 @@
-# Multiple Relations Classification with Utilized Embeddings and Adaptive Predictions
+# Multiple Relations Classification using Imbalanced Predictions Adaptation
 
 ## Requirements
 - Python 3.9
