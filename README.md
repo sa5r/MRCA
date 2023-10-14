@@ -33,3 +33,15 @@ Pre-processed data is available in `data` folder. Raw datasets can be downloaded
 ```
 ./run.sh train nyt_checkpoint data/nyt > output.out &
 ```
+
+## Run Tests
+* To use the provided checkpoints with the reported arguments in the paper.
+
+**WEBNLG**
+```
+./run.sh test webnlg_checkpoint data/webnlg > output.out &
+```
+**NYT**
+```
+./run.sh test nyt_checkpoint data/nyt > output.out &
+```
