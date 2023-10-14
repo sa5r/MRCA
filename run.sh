@@ -15,11 +15,11 @@ nohup python -u train.py \
   --data_path $3/train.json \
   --validation_path $3/valid.json \
   --relations_path $3/rel2id.json \
-  --train_size 0.1 \
+  --train_size 1 \
   --learning_rate 0.0015 \
   --padding_size 100 \
-  --glove_path glove.6B.50d.txt \
-  --embedding_dimensions 50 \
+  --glove_path glove.6B.300d.txt \
+  --embedding_dimensions 300 \
   --lstm_units 500 \
   --pool_size 80 \
   --strides 2 \
