@@ -26,7 +26,7 @@ nohup python -u train.py \
   --dropout 0.15 \
   --learning_decay 3e-5 \
   --batch_size 32 \
-  --epochs 5 \
+  --epochs 50 \
   --patience 5 \
   --checkpoint_path $2
 elif [ $1 == "test" ]
