@@ -52,4 +52,5 @@ Pre-processed data is available in `data` folder. Raw datasets can be downloaded
 ```
 
 ## Links
-- [Full paper on Arxiv] (https://arxiv.org/abs/2309.13718)
+
+- [Full paper on Arxiv](https://arxiv.org/abs/2309.13718)
