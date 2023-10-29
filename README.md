@@ -50,3 +50,6 @@ Pre-processed data is available in `data` folder. Raw datasets can be downloaded
 ```
 ./run.sh test nyt_checkpoint data/nyt > output.out &
 ```
+
+## Links
+- [On Arxiv] (https://arxiv.org/abs/2309.13718)
