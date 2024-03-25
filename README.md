@@ -27,7 +27,7 @@ Pre-processed data is available in `data` folder. Raw datasets can be downloaded
 - [WEBNLG](https://github.com/yubowen-ph/JointER/tree/master/dataset/WebNLG/data)
 
 ## Run Training
-* The below train/test scripts uses the reported hyperparameters in the paper.
+* The below train/test scripts follow the reported hyperparameters in our paper.
 * Please review `run.sh` to check the default arguments.
 
 **WEBNLG**
